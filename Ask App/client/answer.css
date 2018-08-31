@@ -1,0 +1,65 @@
+.showResult {
+    height: 30px;
+    background: gray;
+    text-align: center;
+    display: none;
+    
+}
+
+.left {
+    width: 50%;
+    height: 30px;
+    background: #e74c3c;
+    float: left;
+    line-height: 30px;
+}
+
+.right {
+    width: 50%;
+    height: 30px;
+    background: #3498db;
+    float: right;
+    line-height: 30px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+nav {
+    background: #ccc6c6;
+    height: 35px;
+}
+
+nav a {
+    text-decoration: none;
+    line-height: 35px;
+    margin: 25px;
+    background: bisque;
+    padding: 8px;
+}
+
+
+h1#questCont {
+    text-align: center;
+    font-size: 40px;
+}
+
+.choose {
+    display: flex;
+    justify-content: center;
+}
+
+button.answer {
+    height: 30px;
+    margin: 30px;
+}
+[data-answer="no"] {
+    background: #e74c3c;
+}
+
+[data-answer="yes"] {
+    background: #3498db;
+}
+button.resultAnalyse {display: flex;margin: auto;height: 25px;}

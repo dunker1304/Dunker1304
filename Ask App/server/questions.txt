@@ -1,0 +1,1 @@
+[{"id":"1","questionContent":"So","yes":"7","no":"1"},{"id":"2","questionContent":"Something just like this???","yes":"1","no":"6"},{"id":"3","questionContent":"Are u crazy, man?","yes":"1","no":"6"},{"id":"4","questionContent":"Do you wanna build a snowman???","yes":"0","no":"1"},{"id":5,"questionContent":"Asta or Aster??","yes":0,"no":0}]
