@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ASK PLZ</title>
+    <script src="jquery-3.2.1.min.js"></script>
+    
+    <link rel="stylesheet" href="./ask.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="ask.html">ASK PLZ</a>
+            <a href="answer.html">ANSWER</a>
+        </nav>
+        <h1>Please ask a yes/no question??? Right Now</h1>
+        <form action="http://localhost:6969/ask" method="POST">
+            <textarea maxlength="200" name="question" id="quest" cols="30" rows="10"></textarea>
+            <br>
+            <span id ="left">200/200 chars left</span>
+            <br>
+            <button type="submit">SUBMIT</button>
+        </form>
+    </div>
+</body>
+
+<script type="text/javascript" src="ask.js"></script>
+
+</html>
