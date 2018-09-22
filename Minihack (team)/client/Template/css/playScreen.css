@@ -1,0 +1,12 @@
+#sumOfScore {
+    background-color: #bf1663;
+    color: #FFFFFF;
+}
+
+.btn {
+    text-transform: uppercase;
+    background-color: #bf1663;
+    color: #FFFFFF;
+    display: block;
+    margin: 0 auto;
+}
