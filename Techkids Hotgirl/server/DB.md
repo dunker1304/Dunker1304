@@ -1,0 +1,14 @@
+- User:
+    - userName
+    - passWord
+    - nickName
+    - avatar
+    - gender
+- Images:
+    - imageUrl
+    - view 
+    - like
+    - owner
+    - caption
+    - title
+    - comment
